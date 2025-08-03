@@ -1,0 +1,104 @@
+skill,course,url
+python,Learn Python Programming,https://www.coursera.org/specializations/python
+sql,SQL for Data Science,https://www.coursera.org/learn/sql-for-data-science
+excel,Excel Skills for Business,https://www.coursera.org/specializations/excel
+tableau,Data Visualization with Tableau,https://www.coursera.org/learn/data-visualization-tableau
+power bi,Getting Started with Power BI,https://learn.microsoft.com/en-us/training/powerplatform/power-bi
+data cleaning,Data Cleaning in Python,https://www.datacamp.com/courses/data-cleaning-in-python
+statistics,Statistics with Python,https://www.coursera.org/specializations/statistics-with-python
+data visualization,Data Visualization with Python,https://www.coursera.org/learn/python-for-data-visualization
+numpy,NumPy for Data Science,https://www.datacamp.com/courses/intro-to-python-for-data-science
+pandas,Data Manipulation with Pandas,https://www.coursera.org/learn/data-analysis-with-python
+scikit-learn,Supervised Learning with scikit-learn,https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
+keras,Intro to Keras for Deep Learning,https://www.datacamp.com/courses/deep-learning-in-python
+nlp,Natural Language Processing,https://www.coursera.org/learn/natural-language-processing
+deep learning,Deep Learning Specialization,https://www.coursera.org/specializations/deep-learning
+transformers,Transformers for NLP,https://huggingface.co/course
+openai,OpenAI GPT API Usage,https://platform.openai.com/docs
+matplotlib,Data Visualization with Matplotlib,https://www.coursera.org/learn/python-for-data-visualization
+neural networks,Neural Networks and Deep Learning,https://www.coursera.org/learn/neural-networks-deep-learning
+tensorflow,TensorFlow Developer Certificate,https://www.coursera.org/professional-certificates/tensorflow-in-practice
+java,Java Programming Masterclass,https://www.udemy.com/course/java-the-complete-java-developer-course/
+c++,Beginning C++ Programming,https://www.udemy.com/course/beginning-c-plus-plus-programming/
+data structures,Data Structures & Algorithms,https://www.udemy.com/course/datastructurescncpp/
+algorithms,Algorithms Specialization,https://www.coursera.org/specializations/algorithms
+oop,Object-Oriented Programming in Java,https://www.coursera.org/learn/object-oriented-java
+git,Version Control with Git,https://www.coursera.org/learn/introduction-git-github
+debugging,Debugging with Python,https://realpython.com/python-debugging-pdb/
+html,HTML Basics,https://www.w3schools.com/html/
+css,CSS Fundamentals,https://www.w3schools.com/css/
+javascript,JavaScript Basics,https://www.w3schools.com/js/
+react,React - The Complete Guide,https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+node.js,Node.js Crash Course,https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
+mongodb,MongoDB Basics,https://university.mongodb.com/
+express,Express.js Basics,https://www.geeksforgeeks.org/express-js/
+django,Django for Beginners,https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
+rest api,REST APIs with Flask and Python,https://www.udemy.com/course/rest-api-flask-and-python/
+kotlin,Android App Development,https://developer.android.com/courses/kotlin-android-fundamentals/overview
+android studio,Build Android Apps,https://developer.android.com/studio
+xml,Learn XML Basics,https://www.w3schools.com/xml/
+sqlite,SQLite Tutorial,https://www.sqlitetutorial.net/
+retrofit,Retrofit for Android,https://square.github.io/retrofit/
+mvvm,MVVM Architecture for Android,https://developer.android.com/topic/architecture
+redux,Redux Essentials,https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+bootstrap,Responsive Websites with Bootstrap,https://www.coursera.org/projects/build-a-responsive-website-with-bootstrap
+tailwind,Tailwind CSS Crash Course,https://tailwindcss.com/docs
+aws,AWS Fundamentals,https://www.coursera.org/specializations/aws-fundamentals
+azure,Microsoft Azure Fundamentals,https://learn.microsoft.com/en-us/training/azure/
+gcp,Google Cloud Platform Basics,https://www.coursera.org/specializations/gcp-fundamentals
+docker,Docker Essentials,https://www.coursera.org/learn/docker
+kubernetes,Kubernetes for Beginners,https://www.udemy.com/course/learn-kubernetes/
+devops,DevOps on AWS,https://aws.amazon.com/devops/
+terraform,Terraform for Beginners,https://developer.hashicorp.com/terraform
+linux,Introduction to Linux,https://www.edx.org/course/introduction-to-linux
+jenkins,Jenkins for CI/CD,https://www.udemy.com/course/jenkins/
+ci/cd,CI/CD Pipelines,https://www.coursera.org/learn/devops-cicd
+ansible,Ansible Basics,https://www.redhat.com/en/topics/automation/what-is-ansible
+shell scripting,Bash Scripting for Beginners,https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+network security,Network Security Essentials,https://www.coursera.org/learn/network-security
+ethical hacking,Ethical Hacking Basics,https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
+firewall,Understanding Firewalls,https://www.geeksforgeeks.org/firewall-in-computer-network/
+threat modeling,Threat Modeling Fundamentals,https://owasp.org/www-project-threat-modeling/
+wireshark,Wireshark Network Analysis,https://www.udemy.com/course/wireshark/
+penetration testing,Introduction to Pen Testing,https://www.coursera.org/learn/introduction-cybersecurity
+c,Learn C Programming,https://www.udemy.com/course/c-programming-for-beginners/
+embedded systems,Embedded Systems Basics,https://www.udemy.com/course/8051-microcontroller-and-embedded-systems/
+arduino,Getting Started with Arduino,https://www.arduino.cc/en/Guide
+raspberry pi,Introduction to Raspberry Pi,https://projects.raspberrypi.org/en/pathways
+microcontrollers,Microcontrollers Fundamentals,https://www.udemy.com/course/8051-microcontroller-and-embedded-systems/
+real-time systems,Real-Time Systems Introduction,https://www.coursera.org/learn/real-time-systems
+verilog,Verilog HDL Programming,https://www.udemy.com/course/veriloghdl/
+vhdl,VHDL Programming,https://www.udemy.com/course/vhdl-programming/
+fpga,FPGA Design,https://www.coursera.org/learn/fpga-design
+cmos,CMOS Digital Design,https://www.coursera.org/learn/cmos-digital-vlsi
+cadence,Cadence Tools for VLSI,https://www.cadence.com/en_US/home/training/all-courses.html
+synthesis,Synthesis in VLSI,https://www.ece.ucsb.edu/~kavita/ece124/
+timing analysis,Timing Analysis Basics,https://www.udemy.com/course/static-timing-analysis/
+esp32,ESP32 IoT Development,https://randomnerdtutorials.com/getting-started-with-esp32/
+mqtt,MQTT Protocol Introduction,https://www.hivemq.com/mqtt-essentials/
+node-red,Node-RED Basics,https://nodered.org/docs/tutorials/
+wireless protocols,Wireless Communication Protocols,https://www.udemy.com/course/wireless-communication/
+control theory,Control Systems Basics,https://www.coursera.org/learn/control-of-mobile-robots
+system modeling,System Modeling and Simulation,https://www.coursera.org/learn/modeling-simulation
+state space,State-Space Models,https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+laplace transform,Laplace Transforms in Engineering,https://www.khanacademy.org/math/differential-equations/laplace-transform
+pspice,Circuit Simulation using PSPICE,https://www.udemy.com/course/pspice/
+circuit analysis,Circuit Theory Basics,https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic
+power systems,Power Systems Engineering,https://nptel.ac.in/courses/108/107/108107028/
+electrical machines,Electrical Machines,https://nptel.ac.in/courses/108/106/108106072/
+autocad,AutoCAD Fundamentals,https://www.autodesk.com/learning
+solidworks,Learn SOLIDWORKS,https://www.udemy.com/course/solidworks-course/
+ansys,ANSYS Workbench Tutorial,https://www.ansys.com/services/training-center
+thermal analysis,Thermal Analysis in Ansys,https://www.udemy.com/course/thermal-analysis-using-ansys/
+cad cam,CAD/CAM Design,https://nptel.ac.in/courses/112/105/112105126/
+material science,Introduction to Material Science,https://www.coursera.org/learn/material-science
+staad pro,STAAD Pro Training,https://www.udemy.com/course/staad-pro-training/
+etabs,ETABS Complete Course,https://www.udemy.com/course/etabs-complete-building-design-course/
+revit,Revit Architecture Training,https://www.udemy.com/course/revit-architecture/
+concrete design,Reinforced Concrete Design,https://www.coursera.org/learn/concrete-structures
+soil mechanics,Soil Mechanics and Foundation,https://www.udemy.com/course/soil-mechanics/
+construction management,Construction Project Management,https://www.coursera.org/learn/construction-management
+ros,ROS for Beginners,https://www.theconstructsim.com/ros-jetson-nano/
+ai,AI for Everyone,https://www.coursera.org/learn/ai-for-everyone
+motion planning,Motion Planning for Self-Driving Cars,https://www.coursera.org/learn/motion-planning-self-driving-cars
+sensors,Sensors and Sensor Circuits,https://www.coursera.org/learn/sensor-data-analysis
